@@ -1,0 +1,11 @@
+.bck{
+  background-color:#b899ff;
+background-image:
+radial-gradient(at 31% 99%, hsla(166,86%,72%,1) 0px, transparent 50%),
+radial-gradient(at 40% 25%, hsla(210,86%,72%,1) 0px, transparent 50%),
+radial-gradient(at 5% 39%, hsla(89,86%,72%,1) 0px, transparent 50%),
+radial-gradient(at 68% 45%, hsla(9,86%,72%,1) 0px, transparent 50%),
+radial-gradient(at 61% 26%, hsla(130,86%,72%,1) 0px, transparent 50%),
+radial-gradient(at 15% 74%, hsla(161,86%,72%,1) 0px, transparent 50%),
+radial-gradient(at 46% 52%, hsla(148,86%,72%,1) 0px, transparent 50%);
+}
